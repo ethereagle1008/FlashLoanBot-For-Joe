@@ -6,7 +6,7 @@
 forge install
 npm install
 ```
-
+ 
 ## Setup env
 
 Convert .env example to .env file.
